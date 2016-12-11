@@ -1,0 +1,12 @@
+<funcionario>  
+      <nome>Cleiton Ferreira</nome> 
+      <email>email@gmail.com</email> 
+      <data_nascimento>04/11/1989</data_nascimento> 
+      <cargo>Desenvolvedor Java</cargo> 
+      <matricula>CLT 0001</matricula> 
+      <telefones> 
+           <telefone>(21) 999453628</telefone> 
+           <telefone>(21) 999656566</telefone> 
+           <telefone>(21) 999256857</telefone> 
+      </telefones> 
+ </funcionario> 
